@@ -1,5 +1,5 @@
-import marks_class
-import calculation_class
+import Classes.marks_class as marks_class
+import Classes.calculation_class as calculation_class
 
 
 #main definition
